@@ -10,6 +10,14 @@ You can download the database of all 5-state undecided Turing machines here:
 - [ipfs://QmPRjcK9mJz4UMwkzLNrVG3YtAUzdRHACuHbmpf1n1bfYr](ipfs://QmPRjcK9mJz4UMwkzLNrVG3YtAUzdRHACuHbmpf1n1bfYr)
 - [https://ipfs.prgm.dev/ipfs/QmPRjcK9mJz4UMwkzLNrVG3YtAUzdRHACuHbmpf1n1bfYr](https://ipfs.prgm.dev/ipfs/QmPRjcK9mJz4UMwkzLNrVG3YtAUzdRHACuHbmpf1n1bfYr)
 
+shasum (.zip): `8ba107bf1dbd7864865260d3eb8f07580646cb8c``
+
+## Downloading the index of currently undecided machines
+
+- [https://dna.hamilton.ie/tsterin/bb5_undecided_index]
+
+shasum: `68830ed2ba8f249a521586cf9f6230a09dd8bc7c`
+
 ## Getting started
 
 The notebook `BB5.ipynb` is currently self-contained.
