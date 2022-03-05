@@ -14,7 +14,7 @@ shasum (.zip): `8ba107bf1dbd7864865260d3eb8f07580646cb8c``
 
 ## Downloading the index of currently undecided machines
 
-- [https://dna.hamilton.ie/tsterin/bb5_undecided_index]
+- [https://dna.hamilton.ie/tsterin/bb5_undecided_index](https://dna.hamilton.ie/tsterin/bb5_undecided_index)
 
 shasum: `68830ed2ba8f249a521586cf9f6230a09dd8bc7c`
 
