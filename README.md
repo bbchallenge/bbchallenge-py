@@ -18,9 +18,7 @@ Database shasum:
   
 ## Downloading the index of currently undecided machines
 
-- [https://dna.hamilton.ie/tsterin/bb5_undecided_index](https://dna.hamilton.ie/tsterin/bb5_undecided_index)
-
-Index file shasum: `f9e7f731532259691cf917ff35fd5051c00f1636`
+See https://github.com/bbchallenge/bbchallenge-undecided-index/
 
 ## Getting started
 
