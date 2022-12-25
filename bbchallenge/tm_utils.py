@@ -1,6 +1,3 @@
-from PIL import Image
-from tabulate import tabulate
-
 R, L = 0, 1
 
 
@@ -69,6 +66,8 @@ def from_bbchallenge_format(tm_str):
 
 
 def pptm(machine, return_repr=False):
+    from tabulate import tabulate
+
     headers = ["s", "0", "1"]
     table = []
 
@@ -113,6 +112,8 @@ def step(machine, curr_state, curr_pos, tape):
 def tm_trace_to_image(
     machine, width=900, height=1000, origin=0.5, show_head_direction=False
 ):
+    from PIL import Image
+
     img = Image.new("RGB", (width, height), color="black")
     pixels = img.load()
 
@@ -144,6 +145,8 @@ def tm_trace_to_image(
 
 
 def zoom_at(img, x, y, zoom):
+    from PIL import Image
+
     w, h = img.size
     zoom2 = zoom * 2
     img = img.crop((x - w / zoom2, y - h / zoom2, x + w / zoom2, y + h / zoom2))
